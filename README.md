@@ -13,5 +13,5 @@ Your feedback and suggestions are always welcome. Thanks for stopping by!
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lazarojoaquin1990@gmail.com)](mailto:lazarojoaquin1990@gmail.com)
 
 
-[![Coco-Developer's github stats](https://github-readme-stats.vercel.app/api?username=Coco-Developer&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)](https://github.com/Coco-Developer)
+[![Coco-Developer's github stats](https://github-readme-stats.vercel.app/api?username=Coco-Developer&show_icons=true&title_color=55B694&icon_color=55B694&text_color=6C757D&bg_color=2C3E50)](https://github.com/Coco-Developer)
 
