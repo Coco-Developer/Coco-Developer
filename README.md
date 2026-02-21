@@ -4,7 +4,7 @@ I'm Joaquin, and i'm embarking on an exciting journey into web and mobile app de
 As you explore my profile, you'll witness the growth of my skills and projects.
 Your feedback and suggestions are always welcome. Thanks for stopping by!
 
-- 🏭 Current Role: Senior EHS Analyst in the automotive industry.
+- 🏭 Current Role: Senior Data EHS Especialist in the automotive industry.
 - 🌱 Learning Path: Actively learning web and mobile app development.
 - 🤝 Collaboration: Looking to team up on beginner-friendly projects to gain hands-on experience.
 - 💬 Ask Me Anything: Open to any questions or discussions – let's connect and see how I can assist. 
