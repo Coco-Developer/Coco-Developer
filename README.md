@@ -1,17 +1,68 @@
-### Hi there! :wave:
+Hi there 👋 I'm Joaquin Lázaro
 
-I'm Joaquin, and i'm embarking on an exciting journey into web and mobile app development.
-As you explore my profile, you'll witness the growth of my skills and projects.
-Your feedback and suggestions are always welcome. Thanks for stopping by!
+💻 Full Stack Developer | Web Applications | APIs | AI-assisted Development
 
-- 🏭 Current Role: Senior Data EHS Especialist in the automotive industry.
-- 🌱 Learning Path: Actively learning web and mobile app development.
-- 🤝 Collaboration: Looking to team up on beginner-friendly projects to gain hands-on experience.
-- 💬 Ask Me Anything: Open to any questions or discussions – let's connect and see how I can assist. 
+I'm a developer focused on building modern, scalable and efficient digital solutions.
+My work combines software engineering, data-driven systems and AI-assisted development workflows to create applications that are robust, maintainable and optimized for performance.
 
- Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquinlazaro/)](https://www.linkedin.com/in/joaquinlazaro/)
+I enjoy designing clean architectures, integrating services and exploring new technologies that help build smarter and more efficient systems.
+
+🚀 What I Do
+
+• Full Stack Web Development
+• REST API Design and Integration
+• Data-driven applications
+• AI-assisted development workflows
+• Automation and productivity tools
+• Performance optimization and scalable architectures
+
+🧠 Current Focus
+
+• Building modern web applications and platforms
+• Integrating Artificial Intelligence tools into development workflows
+• Improving development efficiency through automation and intelligent tooling
+• Developing projects that combine data, APIs and scalable architectures
+
+⚙️ Tech Stack
+Frontend
+
+React • JavaScript • HTML5 • CSS3 • Responsive UI
+
+Backend
+
+Node.js • Express • REST APIs • Authentication • Middleware
+
+Data & Integration
+
+SQL • Data modeling • API integrations • JSON services
+
+Tools & Workflow
+
+Git • Docker • CI/CD • AI-assisted development
+
+📂 Featured Work
+
+In my repositories you will find projects related to:
+
+• Web application development
+• Backend services and APIs
+• Data integration solutions
+• Automation and development tooling
+• Modern JavaScript applications
+
+🤝 Collaboration
+
+I'm always open to collaborating on projects involving:
+
+• Web platforms and SaaS applications
+• Backend services and APIs
+• Data processing solutions
+• AI-integrated software projects
+
+💬 Let's Connect
+
+Feel free to reach out for collaboration, ideas or technical discussions.
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquinlazaro/)](https://www.linkedin.com/in/joaquinlazaro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lazarojoaquin1990@gmail.com)](mailto:lazarojoaquin1990@gmail.com)
 
-
-[![Coco-Developer's github stats](https://github-readme-stats.vercel.app/api?username=Coco-Developer&show_icons=true&title_color=55B694&icon_color=55B694&text_color=6C757D&bg_color=2C3E50)](https://github.com/Coco-Developer)
 
